@@ -1,0 +1,40 @@
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\POS Management System.exe.config
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\POS Management System.exe
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\POS Management System.pdb
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\MetroFramework.Design.dll
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\MetroFramework.dll
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\MetroFramework.Fonts.dll
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS_Management_System.Properties.Resources.resources
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS Management System.csproj.GenerateResource.Cache
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS Management System.exe
+f:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS Management System.pdb
+F:\Visual Studio 2013\Projects\POS Management System\POS Management System\bin\Debug\smsystem.accdb
+F:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS_Management_System.Form1_POS.resources
+F:\Visual Studio 2013\Projects\POS Management System\POS Management System\obj\Debug\POS Management System.csprojResolveAssemblyReference.cache
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.exe.config
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.exe
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.pdb
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\smsystem.accdb
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.exe
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.pdb
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.dll
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.csprojResolveAssemblyReference.cache
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS_Management_System.Form1_POS.resources
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS_Management_System.Properties.Resources.resources
+C:\Users\JJ\Desktop\Project Material\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.csproj.GenerateResource.Cache
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.exe.config
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\smsystem.accdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.exe
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\POS Management System.pdb
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.csprojResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS_Management_System.Form1_POS.resources
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS_Management_System.Properties.Resources.resources
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS Management System.csproj.GenerateResource.Cache
+C:\Users\Fatima\Desktop\POS Management System- Copy5\POS Management System\obj\Debug\POS_Management_System.Form2.resources
